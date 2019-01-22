@@ -1,8 +1,3 @@
-This program is developed as a part of coding assessment for Your Mechanic.
-
-YourMechanic is a privately-held startup company based in Mountain View, California. 
-The company provides mobile car repair and maintenance services to car owners at their location.
-
 Instructions: 
 
 To run this program, please follow the following steps:
